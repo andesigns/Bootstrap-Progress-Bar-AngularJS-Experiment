@@ -1,0 +1,23 @@
+/* Styles go here */
+body {
+  padding-top: 50px;
+}
+
+.alert {
+  margin-top: -4px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+.progress {
+  margin-top: 15px;
+  width: 80%;
+}
+
+.target {
+  padding: 15px;
+  color: white;
+  background-color: green;
+  border-radius: 5px;
+  border-color: #ccc;
+}
