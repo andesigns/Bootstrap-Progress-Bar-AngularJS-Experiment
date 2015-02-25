@@ -1,0 +1,17 @@
+{
+    "status": 1,
+    "data": [
+        {
+            "name": "Sales",
+            "current": "123",
+            "target": "167",
+            "prefix": "£"
+        },
+        {
+            "name": "Tasks completed",
+            "current": "25",
+            "target": "31",
+            "postfix": "mh"
+        }
+    ]
+}
